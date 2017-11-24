@@ -1,4 +1,5 @@
-# UI for slot roulette
+# boilerplate-react-baobab-webpack
+Boilerplate including react, es6, babel (w latest), webpack, baobab
 
 ### Install nodemon globally for server side changes watching
 ```
